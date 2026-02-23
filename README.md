@@ -49,6 +49,7 @@ python train_model.py
 streamlit run app.py
 
 🔹 App Screenshot
+<img width="560" height="389" alt="smart resume checker web app ss" src="https://github.com/user-attachments/assets/cad83808-5243-49f9-87da-d691f70379fb" />
 
 
 
