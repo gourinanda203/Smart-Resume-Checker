@@ -50,6 +50,8 @@ streamlit run app.py
 
 🔹 App Screenshot
 
+
+
 🔹 Tech Stack
 
 . Python
